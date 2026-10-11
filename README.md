@@ -1,12 +1,12 @@
 # Hi there! I'm Mariano Madrigal 👋
 
-I am an Economist and Macroeconomist specializing in **International Macroeconomics, Financialization, Ecology, and Quantitative Methods**. Currently based in Paris, France, I hold a Master's degree in Economic Analysis and Policy (*Summa Cum Laude*) from Université Sorbonne Paris Nord, backed by a strong background in financial analysis, credit risk, and data science.
+I am an Economist specializing in **International Macroeconomics, Financialization, Ecology, and Quantitative Methods**. Currently based in Paris, France, I hold a Master's degree in Economic Analysis and Policy (summa cum laude) from Université Sorbonne Paris Nord (France) and a Master's degree in Economics from the University of Santiago de Compostela (Spain), backed by a strong background in financial analysis, credit risk, and data science.
 
 ---
 
 ### 🚀 About Me
 - 🎓 **Education:** Master 2 in Economic Analysis and Policy (*Summa Cum Laude*) – Université Sorbonne Paris Nord.
-- 🔬 **Current Roles:** Research Assistant at the Center for Research on Economic Strategies (CRES) / Université Marie & Louis Pasteur (ANR-funded project on the Political Economy of Populism).
+- 🔬 **Current Roles:** Research Assistant at the Center for Research on Economic Strategies [(CRESE)](https://sites.google.com/view/ecopo-pop/team?authuser=0) / Université Marie & Louis Pasteur (ANR-funded project on the Political Economy of Populism).
 - ♟️ **Other Passions:** International Chess Master (IM) and online instructor at Chess.com.
 - 🌍 **Languages:** Spanish (Native), French (Advanced), English (Advanced).
 
