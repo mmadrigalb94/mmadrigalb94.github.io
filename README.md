@@ -16,7 +16,7 @@ Currently based in Paris, France, I hold a Master's degree in Economic Analysis 
 
 ### 💻 Technical Stack & Skills
 - **Programming & Econometrics:** Python, R, LSD, EViews, SQL.
-- **IBM Data Science:** [Professional certification](coursera.org/verify/professional-cert/F9F94MWZ588J) focused on Machine Learning and Data Science.
+- **IBM Data Science:** [Professional certification](https://www.coursera.org/account/accomplishments/professional-cert/F9F94MWZ588J) focused on Machine Learning and Data Science.
 - **Modeling & Data Science:** Stock-Flow Consistent (SFC) modeling, Agent-Based Modeling (ABM), Input-Output tables, Time-series econometrics and Machine Learning.
 - **Financial & Risk Analysis:** Portfolio analysis, Credit Risk assessment, Market Risk quantification.
 
