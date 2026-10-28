@@ -29,7 +29,7 @@ Currently based in Paris, France, I hold a Master's degree in Economic Analysis 
 ---
 
 ### 📊 Selected Projects & Research
-- **Master's Thesis (M2):** Analysis of redistribution policies of populist parties: the case of conditional cash transfers in Brazil since 2000.
+- [**Master's Thesis (M2):**](https://drive.google.com/file/d/1Ur5GrArU7hqnmYmfi2MLjoaXFOdDQWIG/view?usp=sharing) Analysis of redistribution policies of populist parties: the case of conditional cash transfers in Brazil since 2000.
 - **Master's Thesis (M1):** The Relationship Between Political Stability and Food Security in Latin America and the Caribbean
 (2002 -2021).
 - **Econometrics & Reports:**
