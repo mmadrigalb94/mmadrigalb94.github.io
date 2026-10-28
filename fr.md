@@ -14,7 +14,7 @@ Actuellement basé à Paris, en France, je suis titulaire d'un Master 2 en Analy
 
 ### 🚀 À propos de moi
 - 🎓 **Formation :** Master en Analyse et Politique Économiques (*Summa Cum Laude*) – Université Sorbonne Paris Nord et Master en Économie – Université de Saint-Jacques-de-Compostelle.
-- 🔬 **Postes actuels :** Assistant de recherche au Centre de Recherches sur les Stratégies Économiques [(CRESE)](https://sites.google.com/view/ecopo-pop/team?authuser=0) / Université de Franche-Comté (projet financé par l'ANR sur l'économie politique du populisme).
+- 🔬 **Postes actuels :** Assistant de recherche au Centre de Recherches sur les Stratégies Économiques [(CRESE)](https://sites.google.com/view/ecopo-pop/team?authuser=0) / Université Marie et Louis Pasteur (projet financé par l'ANR sur l'économie politique du populisme).
 - ♟️ **Autres passions :** Maître International (MI) d'échecs et instructeur en ligne sur [Chess.com](https://www.chess.com/member/gmtalentoso) et [Lichess.org](https://lichess.org/coach/gmtalentoso).
 - 🌍 **Langues :** Espagnol (langue maternelle), Français (avancé), Anglais (avancé).
 
