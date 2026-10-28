@@ -1,3 +1,9 @@
+<p align="right">
+  🇬🇧 <b>English</b> | 
+  🇫🇷 <a href="fr">Français</a> | 
+  🇪🇸 <a href="es">Español</a>
+</p>
+
 # Hi there! I'm Mariano Madrigal
 
 I am an Economist specializing in **International Macroeconomics, Financialization and Ecology** and passionate about **heterodox economics**. 
