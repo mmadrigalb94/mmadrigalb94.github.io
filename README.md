@@ -23,12 +23,13 @@ Currently based in Paris, France, I hold a Master's degree in Economic Analysis 
 
 ### 📊 Selected Projects & Research
 - **Master's Thesis (M2):** Analysis of redistribution policies of populist parties: the case of conditional cash transfers in Brazil since 2000.
-- **Master's Thesis (M1):** 
-- **ABM Modeling:** Innovation, income distribution, and growth dynamics: a multi-agent analysis of science policies within a heterogeneous monetary union.
-- **Econometrics & Reports:** 
+- **Master's Thesis (M1):** The Relationship Between Political Stability and Food Security in Latin America and the Caribbean
+(2002 -2021).
+- **Econometrics & Reports:**
   - Economic outlook report for Costa Rica (Time-series).
   - Algeria country report multipliers and satellite accounts (Input-Output).
   - Determinants of individual preferences regarding distribution policies in the United States (2017).
+  - Innovation, income distribution, and growth dynamics: a multi-agent analysis of science policies within a heterogeneous monetary union (ABM Modeling).
 
 ---
 
