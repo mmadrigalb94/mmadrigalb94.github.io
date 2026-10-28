@@ -1,6 +1,6 @@
 <p align="right">
-  🇬🇧 <b>English</b> | 
-  🇫🇷 <a href="fr">Français</a> | 
+  🇬🇧 <a href="./">English</a> | 
+  🇫🇷 <b>Français</b> | 
   🇪🇸 <a href="es">Español</a>
 </p>
 
