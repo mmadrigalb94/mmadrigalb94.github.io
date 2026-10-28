@@ -6,7 +6,7 @@ I am an Economist specializing in **International Macroeconomics, Financializati
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Master 2 in Economic Analysis and Policy (*Summa Cum Laude*) – Université Sorbonne Paris Nord.
+- 🎓 **Education:** Master in Economic Analysis and Policy (*Summa Cum Laude*) – Université Sorbonne Paris Nord and Master in Economic - Santiago de Compostela University.
 - 🔬 **Current Roles:** Research Assistant at the Center for Research on Economic Strategies [(CRESE)](https://sites.google.com/view/ecopo-pop/team?authuser=0) / Université Marie & Louis Pasteur (ANR-funded project on the Political Economy of Populism).
 - ♟️ **Other Passions:** International Chess Master (IM) and online instructor at [Chess.com](https://www.chess.com/member/gmtalentoso) and [Lichess.org](https://lichess.org/coach/gmtalentoso).
 - 🌍 **Languages:** Spanish (Native), French (Advanced), English (Advanced).
