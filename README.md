@@ -1,6 +1,6 @@
 # Hi there! I'm Mariano Madrigal
 
-I am an Economist specializing in **International Macroeconomics, Financialization and Ecology**. 
+I am an Economist specializing in **International Macroeconomics, Financialization and Ecology** and passionate about **heterodox economics**. 
 Currently based in Paris, France, I hold a Master's degree in Economic Analysis and Policy (summa cum laude) from Université Sorbonne Paris Nord (France) and a Master's degree in Economics from the University of Santiago de Compostela (Spain), backed by a strong background in quantitative methods and data science, my core research interests lie in political economy.
 
 ![Mi Foto](mifoto.jpeg)
