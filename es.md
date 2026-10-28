@@ -23,19 +23,19 @@ Actualmente radicado en París, Francia, poseo un Máster en Análisis y Políti
 ### 💻 Stack Tecnológico y Habilidades
 - **Programación y Econometría:** Python, R, LSD, EViews, SQL.
 - **Certificación IBM Data Science:** [Certificación profesional](https://www.coursera.org/account/accomplishments/professional-cert/F9F94MWZ588J) centrada en Aprendizaje Automático (*Machine Learning*) y Ciencia de Datos.
-- **Modelado y Ciencia de Datos:** Modelado de Consistencia de Flujos de Fondos (SFC), Modelado Basado en Agentes (ABM), tablas Input-Output, econometría de series temporales y Machine Learning.
+- **Modelización y Ciencia de Datos:** Modelización Stock-Flow Consistent (SFC), Modelización Basado en Agentes (ABM), tablas Input-Output, econometría de series temporales y Machine Learning.
 - **Análisis Financiero y de Riesgos:** Análisis de carteras, evaluación de riesgo de crédito, cuantificación de riesgo de mercado.
 
 ---
 
 ### 📊 Proyectos y Investigación Seleccionados
-- **Tesis de Máster (M2):** Análisis de las políticas de redistribución de los partidos populistas: el caso de las transferencias condicionadas de renta en Brasil desde 2000.
+- **Tesis de Máster (M2):** Análisis de las políticas de redistribución de los partidos populistas: el caso de las transferencias condicionadas de efectivo en Brasil desde 2000.
 - **Tesis de Máster (M1):** La relación entre la estabilidad política y la seguridad alimentación en América Latina y el Caribe (2002-2021).
 - **Econometría e Informes:**
   - Informe de perspectivas económicas para Costa Rica (Series temporales).
-  - Informe de país sobre Argelia: multiplicadores y cuentas satélite (Input-Output).
+  - Informe país sobre Argelia: multiplicadores y cuentas satélite (Input-Output).
   - Determinantes de las preferencias individuales respecto a las políticas de redistribución en Estados Unidos (2017).
-  - Innovación, distribución de la renta y dinámicas de crecimiento: un análisis multiagente de las políticas científicas dentro de una unión monetaria heterogénea (Modelado ABM).
+  - Innovación, distribución de la renta y dinámicas de crecimiento: un análisis multiagente de las políticas científicas dentro de una unión monetaria heterogénea (Modelización ABM).
 
 ---
 
