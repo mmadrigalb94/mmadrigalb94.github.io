@@ -12,15 +12,15 @@ Actuellement basé à Paris, en France, je suis titulaire d'un Master 2 en Analy
 ![Mi Foto](mifoto.jpeg)
 ---
 
-### 🚀 À propos de moi
-- 🎓 **Formation :** Master en Analyse et Politique Économiques (*Summa Cum Laude*) – Université Sorbonne Paris Nord et Master en Économie – Université de Saint-Jacques-de-Compostelle.
-- 🔬 **Postes actuels :** Assistant de recherche au Centre de Recherches sur les Stratégies Économiques [(CRESE)](https://sites.google.com/view/ecopo-pop/team?authuser=0) / Université Marie et Louis Pasteur (projet financé par l'ANR sur l'économie politique du populisme).
-- ♟️ **Autres passions :** Maître International (MI) d'échecs et instructeur en ligne sur [Chess.com](https://www.chess.com/member/gmtalentoso) et [Lichess.org](https://lichess.org/coach/gmtalentoso).
-- 🌍 **Langues :** Espagnol (langue maternelle), Français (avancé), Anglais (avancé).
+### À propos de moi
+- **Formation :** Master en Analyse et Politique Économiques (*Summa Cum Laude*) – Université Sorbonne Paris Nord et Master en Économie – Université de Saint-Jacques-de-Compostelle.
+- **Postes actuels :** Assistant de recherche au Centre de Recherches sur les Stratégies Économiques [(CRESE)](https://sites.google.com/view/ecopo-pop/team?authuser=0) / Université Marie et Louis Pasteur (projet financé par l'ANR sur l'économie politique du populisme).
+- **Autres passions :** Maître International (MI) d'échecs et instructeur en ligne sur [Chess.com](https://www.chess.com/member/gmtalentoso) et [Lichess.org](https://lichess.org/coach/gmtalentoso).
+- **Langues :** Espagnol (langue maternelle), Français (avancé), Anglais (avancé).
 
 ---
 
-### 💻 Compétences et Outils Techniques
+### Compétences et Outils Techniques
 - **Programmation et Économétrie :** Python, R, LSD, EViews, SQL.
 - **Certificat IBM Data Science :** [Certification professionnelle](https://www.coursera.org/account/accomplishments/professional-cert/F9F94MWZ588J) axée sur l'apprentissage automatique (Machine Learning) et la science des données.
 - **Modélisation et Science des Données :** Modélisation Flux-Stocks Cohérents (SFC), modélisation à base d'agents (ABM), tableaux entrées-sorties, économétrie des séries temporelles et Machine Learning.
@@ -28,7 +28,7 @@ Actuellement basé à Paris, en France, je suis titulaire d'un Master 2 en Analy
 
 ---
 
-### 📊 Projets et Recherche Sélectionnés
+### Projets et Recherche Sélectionnés
 - **Mémoire de Master (M2) :** Analyse des politiques de redistribution des partis populistes : le cas des transferts conditionnels de revenus au Brésil depuis 2000.
 - **Mémoire de Master (M1) :** La relation entre la stabilité politique et la sécurité alimentaire en Amérique latine et dans les Caraïbes (2002-2021).
 - **Économétrie et Rapports :**
@@ -39,6 +39,6 @@ Actuellement basé à Paris, en France, je suis titulaire d'un Master 2 en Analy
 
 ---
 
-### 📫 Me Contacter
+### Me Contacter
 - **E-mail :** [mmadrigalb94@gmail.com](mailto:mmadrigalb94@gmail.com)
 - **LinkedIn :** [mariano-josé-m-840b63127](https://www.linkedin.com/in/mariano-josé-m-840b63127)
