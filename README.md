@@ -12,15 +12,15 @@ Currently based in Paris, France, I hold a Master's degree in Economic Analysis 
 ![Mi Foto](mifoto.jpeg)
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** Master in Economic Analysis and Policy (*Summa Cum Laude*) – Université Sorbonne Paris Nord and Master in Economic - University of Santiago de Compostela.
-- 🔬 **Current Roles:** Research Assistant at the Center for Research on Economic Strategies [(CRESE)](https://sites.google.com/view/ecopo-pop/team?authuser=0) / Université Marie & Louis Pasteur (ANR-funded project on the Political Economy of Populism).
-- ♟️ **Other Passions:** International Chess Master (IM) and online instructor at [Chess.com](https://www.chess.com/member/gmtalentoso) and [Lichess.org](https://lichess.org/coach/gmtalentoso).
-- 🌍 **Languages:** Spanish (Native), French (Advanced), English (Advanced).
+### About Me
+-  **Education:** Master in Economic Analysis and Policy (*Summa Cum Laude*) – Université Sorbonne Paris Nord and Master in Economic - University of Santiago de Compostela.
+-  **Current Roles:** Research Assistant at the Center for Research on Economic Strategies [(CRESE)](https://sites.google.com/view/ecopo-pop/team?authuser=0) / Université Marie & Louis Pasteur (ANR-funded project on the Political Economy of Populism).
+-  **Other Passions:** International Chess Master (IM) and online instructor at [Chess.com](https://www.chess.com/member/gmtalentoso) and [Lichess.org](https://lichess.org/coach/gmtalentoso).
+-  **Languages:** Spanish (Native), French (Advanced), English (Advanced).
 
 ---
 
-### 💻 Technical Stack & Skills
+### Technical Stack & Skills
 - **Programming & Econometrics:** Python, R, LSD, EViews, SQL.
 - **IBM Data Science:** [Professional certification](https://www.coursera.org/account/accomplishments/professional-cert/F9F94MWZ588J) focused on Machine Learning and Data Science.
 - **Modeling & Data Science:** Stock-Flow Consistent (SFC) modeling, Agent-Based Modeling (ABM), Input-Output tables, Time-series econometrics and Machine Learning.
@@ -28,7 +28,7 @@ Currently based in Paris, France, I hold a Master's degree in Economic Analysis 
 
 ---
 
-### 📊 Selected Projects & Research
+### Selected Projects & Research
 - [**Master's Thesis (M2):**](https://drive.google.com/file/d/1Ur5GrArU7hqnmYmfi2MLjoaXFOdDQWIG/view?usp=sharing) Analysis of redistribution policies of populist parties: the case of conditional cash transfers in Brazil since 2000.
 - **Master's Thesis (M1):** The Relationship Between Political Stability and Food Security in Latin America and the Caribbean
 (2002 -2021).
@@ -40,6 +40,6 @@ Currently based in Paris, France, I hold a Master's degree in Economic Analysis 
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 - **Email:** [mmadrigalb94@gmail.com](mailto:mmadrigalb94@gmail.com)
 - **LinkedIn:** [mariano-josé-m-840b63127](https://www.linkedin.com/in/mariano-josé-m-840b63127)
